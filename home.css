@@ -15,7 +15,6 @@ marquee{
 
 .topl h2{
     font-size:30px;
-
 }
 
 .topr{
@@ -34,6 +33,17 @@ marquee{
     display: inline;
     margin-top:20px;
 
+}
+
+.mid h2{
+    text-align: center;
+    font-size:xx-large;
+}
+
+.mid p{
+    font-size: x-large;
+    margin-left:100px;
+    margin-right:100px;
 }
 
     
