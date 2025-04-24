@@ -1,0 +1,39 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:lightgrey;
+}
+
+.top{
+    display:flex;
+}
+
+marquee{
+    margin-left:50px;
+    margin-right:50px;
+    font-size: large;
+}
+
+.topl h2{
+    font-size:30px;
+
+}
+
+.topr{
+    margin-left:100px;   
+    margin-top:15px; 
+}
+
+.topr ul a{
+    text-decoration:none;
+    color: black;
+    padding:0px 0px 10px 20px;
+    font-size:larger;
+}
+    
+.topr ul a li{
+    display: inline;
+    margin-top:20px;
+
+}
+
+    
